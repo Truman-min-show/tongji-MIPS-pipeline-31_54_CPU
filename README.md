@@ -67,8 +67,3 @@
 
 ## 🌟 致谢
 特别感谢 **郑学长** 的开源项目[TongjiCS-Undergraduate-Courses](https://github.com/ZhengBryan/TongjiCS-Undergraduate-Courses.git) 
-
----
-
-### 附送一个小礼物
-2024年系统结构考纲总结见主文件夹
