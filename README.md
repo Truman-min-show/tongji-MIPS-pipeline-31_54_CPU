@@ -1,7 +1,7 @@
 # tongji-MIPS-pipeline-31_54_CPU
 同济大学 2024年计算机系统结构  大作业 31指令和54指令 5级流水线 CPU
 ## 以下为使用ai总结
-```markdown
+
 # 计算机系统结构课程实验 - 流水线CPU设计与分析
 
 **参考 [TongjiCS-Undergraduate-Courses](https://github.com/ZhengBryan/TongjiCS-Undergraduate-Courses.git) 改编而来**
